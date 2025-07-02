@@ -41,17 +41,16 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay &theme=radical"   />
+🚀 GitHub Insights
+
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=gruvbox&hide_border=false&rank_icon=percentile&include_all_commits=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhawitkahsay&layout=compact&theme=gruvbox&hide_border=false" width="48%"/>
+
 </div>
-  
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=percentile&include_all_commits=true" width="50%" />
-
-</p>
 
 
 
