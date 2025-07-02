@@ -46,7 +46,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merhawitkahsay&theme=monokai&hide_border=false" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merhawitkahsay&theme=darkblue&hide_border=false" width="98%" />
 </p>
 
 
