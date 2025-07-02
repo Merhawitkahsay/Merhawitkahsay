@@ -50,7 +50,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merhawitkahsay &theme=radical)
 ###
 
 <div align="center">
@@ -58,4 +58,4 @@
 </div>
 
 ###
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merhawitkahsay &theme=radical)
+
