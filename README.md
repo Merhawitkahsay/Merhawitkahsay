@@ -43,10 +43,7 @@
 <br> <br><be>
 <h3 align = "left"> 🌟 My GitHub Dashboard </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=gradient&hide_border=false&rank_icon=percentile&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhawitkahsay&layout=compact&theme=gradient&hide_border=false" width="49%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=merhawitkahsay&theme=gradient&hide_border=false" width="98%" />
