@@ -40,16 +40,17 @@
   <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" height="70" alt="python logo"  />
 </div>
 
-<br> <br><br>
-🚀 GitHub Insights
+<br> <br><be>
+<h3 align = "left"> 🌟 My GitHub Dashboard </h3>
 
-<div align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=gradient&hide_border=false&rank_icon=percentile&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhawitkahsay&layout=compact&theme=gradient&hide_border=false" width="49%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=gruvbox&hide_border=false&rank_icon=percentile&include_all_commits=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhawitkahsay&layout=compact&theme=gruvbox&hide_border=false" width="48%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merhawitkahsay&theme=gradient&hide_border=false" width="98%" />
+</p>
 
 
 
