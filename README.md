@@ -44,10 +44,12 @@
   <img width="12" />
    <img src= "https://tse1.mm.bing.net/th/id/OIP.udMXCQ1YIOPXBQJv5BvM_wHaEo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="80" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" height="800" alt="python logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" height="80" alt="python logo"  />
 </div>
 
 ###
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merhawitkahsay&theme=radical)
 
 
 <div align="center">
