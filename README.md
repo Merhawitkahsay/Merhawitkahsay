@@ -54,13 +54,11 @@
 </div>
   <h3 align="left">🔥   My Stats :</h3>
 
-🌼 GitHub Overview
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=pastel&hide_border=false&title_color=FFB6C1&icon_color=FF69B4" width="50%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhawitkahsay&layout=compact&theme=pastel&title_color=FFB6C1&hide_border=false" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=percentile&include_all_commits=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhawitkahsay&layout=donut&theme=midnight-purple&hide_border=true" width="42%" />
 </p>
-
 
 
