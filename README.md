@@ -23,7 +23,7 @@
 
 <h3 align="left">👩‍💻 About Me  </h3>
 
-<p align="left">Hi there! I'm Merhawit, tuning in from Ethiopia 🇪🇹.<br><br>- 🔭- 🎓 Currently studying Computer Science at the University of the People<br>- - 🐍 Learning Python and building cool stuff along the way  <br>- - 😴 Fun fact: My favorite hobby after coding is... sleeping!</p>
+<p align="left">Hi there! I'm Merhawit, tuning in from Ethiopia 🇪🇹.<br><br><br>- 🔭- 🎓 Currently studying Computer Science at the University of the People<br><br>- - 🐍 Learning Python and building cool stuff along the way <br> <br>- - 😴 Fun fact: My favorite hobby after coding is... sleeping!</p>
 <br><br>
 <h3 align="left">🛠 Language and tools</h3>
 
