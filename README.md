@@ -21,13 +21,9 @@
 
 <h1 align="center">Merhawit here👋</h1>
 
+<h3 align="left">👩‍💻 About Me  </h3>
 
-
-<h3 align="left">👩💻  Who am I?</h3>
-
-
-<p align="left">I'm Merhawit from Ethiopia.<br><br>- 🔭 I’m a computer science student at University of the People!<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I SLEEP!!!</p>
-
+<p align="left">Hi there! I'm Merhawit, tuning in from Ethiopia 🇪🇹.<br><br>- 🔭- 🎓 Currently studying Computer Science at the University of the People<br>- - 🐍 Learning Python and building cool stuff along the way  <br>- - 😴 Fun fact: My favorite hobby after coding is... sleeping!</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -43,10 +39,6 @@
   <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" height="80" alt="python logo"  />
 </div>
-
-
-
-
 
 
 <div align="center">
