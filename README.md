@@ -44,13 +44,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay &theme=radical"   />
 </div>
-  <h3 align="left">🔥   My Stats :</h3>
+  
 
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=percentile&include_all_commits=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhawitkahsay&layout=donut&theme=midnight-purple&hide_border=true" width="42%" />
+
 </p>
 
 
