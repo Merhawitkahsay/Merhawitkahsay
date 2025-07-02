@@ -3,7 +3,7 @@
 </div>
 
 
-###
+
 
 <div align="center">
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -11,29 +11,26 @@
  <img src= "https://tse4.mm.bing.net/th/id/OIP.J-b9RgAu3d1FpU6G9zjWhAHaEc?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="25" width = "90" alt="whatsapp logo"  />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
-###
+
 
 <h1 align="center">Merhawit here👋</h1>
 
-###
+
 
 <h3 align="left">👩‍💻  Who am I?</h3>
 
-###
 
 <p align="left">I'm Merhawit from Ethiopia.<br><br>- 🔭 I’m a computer science student at University of the People!<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I SLEEP!!!</p>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
 <div align="left">
   <img src= "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png" height="80" alt="HTML logo"  />
@@ -47,7 +44,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" height="80" alt="python logo"  />
 </div>
 
-###
+
 
 
 
@@ -56,13 +53,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay &theme=radical"   />
 </div>
   <h3 align="left">🔥   My Stats :</h3>
-###
+
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <div align = "right">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merhawitkahsay&theme=radical)
+
 </div>
-###
 
