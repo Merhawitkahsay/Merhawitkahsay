@@ -1,239 +1,110 @@
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Stats - Dark Layout</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>Merhawit's GitHub Profile</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #0d1117;
+      color: #c9d1d9;
+      text-align: center;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    .profile-header {
+      margin-bottom: 30px;
+    }
+    .profile-gif {
+      border-radius: 50%;
+      max-width: 200px;
+      border: 4px solid #30363d;
+    }
+    .social-links {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin: 20px 0;
+    }
+    .social-links img {
+      transition: transform 0.3s ease;
+    }
+    .social-links img:hover {
+      transform: scale(1.1);
+    }
+    .skills-section {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin: 30px 0;
+    }
+    .skills-section img {
+      max-height: 80px;
+      border-radius: 10px;
+      transition: transform 0.3s ease;
+    }
+    .skills-section img:hover {
+      transform: scale(1.1);
+    }
+    .stats-section {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 30px;
+    }
+    .stats-section img {
+      max-width: 45%;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+  </style>
 </head>
 <body>
-  <div class="github-stats-container">
-    <div class="profile-header">
-      <img src="https://via.placeholder.com/150" alt="Profile Picture" class="profile-image">
-      <h1 class="username">GitHub Username</h1>
-    </div>
-
-    <div class="stats-grid">
-      <div class="stat-card total-repos">
-        <h3>Total Repositories</h3>
-        <div class="stat-value">45</div>
-      </div>
-
-      <div class="stat-card total-commits">
-        <h3>Total Commits</h3>
-        <div class="stat-value">1,234</div>
-      </div>
-
-      <div class="stat-card followers">
-        <h3>Followers</h3>
-        <div class="stat-value">256</div>
-      </div>
-
-      <div class="stat-card contributions">
-        <h3>Contributions</h3>
-        <div class="stat-value">3,456</div>
-      </div>
-    </div>
-
-    <div class="language-stats">
-      <h2>Language Distribution</h2>
-      <div class="language-bars">
-        <div class="language-bar" style="--percent: 45%; --color: #f1e05a;">
-          <span class="lang-name">JavaScript</span>
-          <span class="lang-percent">45%</span>
-        </div>
-        <div class="language-bar" style="--percent: 30%; --color: #3572A5;">
-          <span class="lang-name">Python</span>
-          <span class="lang-percent">30%</span>
-        </div>
-        <div class="language-bar" style="--percent: 15%; --color: #e34c26;">
-          <span class="lang-name">HTML</span>
-          <span class="lang-percent">15%</span>
-        </div>
-        <div class="language-bar" style="--percent: 10%; --color: #563d7c;">
-          <span class="lang-name">CSS</span>
-          <span class="lang-percent">10%</span>
-        </div>
-      </div>
-    </div>
+  <div class="profile-header">
+    <img class="profile-gif" height="150" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" alt="Profile GIF" />
   </div>
 
-  <script src="script.js"></script>
+  <div class="social-links">
+    <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    </a>
+    <a href="https://www.youtube.com/yourchannel" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+    </a>
+    <a href="https://wa.me/yourwhatsappnumber" target="_blank">
+      <img src="https://tse4.mm.bing.net/th/id/OIP.J-b9RgAu3d1FpU6G9zjWhAHaEc?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="25" width="90" alt="whatsapp logo" />
+    </a>
+  </div>
+
+  <div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=merhawitkahsay" alt="Visitor Badge" />
+  </div>
+
+  <h1>Merhawit here 👋</h1>
+
+  <h3>👩‍💻 Who am I?</h3>
+  <p>
+    I'm Merhawit from Ethiopia.<br><br>
+    - 🔭 I'm a computer science student at University of the People!<br>
+    - 📚 I'm currently learning Python<br>
+    - ⚡ In my free time I SLEEP!!!
+  </p>
+
+  <h3>🛠 Language and Tools</h3>
+  <div class="skills-section">
+    <img src="https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png" height="80" alt="HTML logo" />
+    <img src="https://th.bing.com/th/id/R.8e95479da2c5e493b835c8533c2d5ba5?rik=FsLtwf5wKb0A1Q&riu=http%3a%2f%2fdevlup.com%2fwp-content%2fuploads%2f2013%2f07%2fcss-logo.jpg&ehk=Uo3AKi7cKWanVe2acMOfLUQizY9rREpU0%2boUjHzShMI%3d&risl=&pid=ImgRaw&r=0" height="80" alt="CSS logo" />
+    <img src="https://tse3.mm.bing.net/th/id/OIP.CmR_xQULrXJrBNo7Q4EUYgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="80" alt="PHP logo" />
+    <img src="https://tse1.mm.bing.net/th/id/OIP.udMXCQ1YIOPXBQJv5BvM_wHaEo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="80" alt="MySQL logo" />
+    <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" height="80" alt="Python logo" />
+  </div>
+
+  <h3>🔥 My Stats</h3>
+  <div class="stats-section">
+    <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhawitkahsay&layout=donut&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  </div>
 </body>
 </html>
-
-// Optional: Add dynamic fetching of GitHub stats
-async function fetchGitHubStats(username) {
-  try {
-    const response = await fetch(`https://api.github.com/users/${username}`);
-    const userData = await response.json();
-
-    document.querySelector('.username').textContent = userData.login;
-    document.querySelector('.profile-image').src = userData.avatar_url;
-
-    // You would need additional API calls or GitHub GraphQL API 
-    // to fetch more detailed stats like total commits, languages, etc.
-  } catch (error) {
-    console.error('Error fetching GitHub stats:', error);
-  }
-}
-
-// Uncomment and replace 'yourusername' with actual GitHub username
-// fetchGitHubStats('yourusername');
-
-// Optional: Add animations or interactions
-document.addEventListener('DOMContentLoaded', () => {
-  const languageBars = document.querySelectorAll('.language-bar');
-
-  languageBars.forEach(bar => {
-    bar.addEventListener('mouseenter', () => {
-      bar.style.transform = 'scale(1.05)';
-    });
-
-    bar.addEventListener('mouseleave', () => {
-      bar.style.transform = 'scale(1)';
-    });
-  });
-});
-
-:root {
-  --bg-dark: #121212;
-  --card-dark: #1e1e1e;
-  --text-primary: #e0e0e0;
-  --accent-color: #bb86fc;
-  --accent-variant: #3700b3;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Arial', sans-serif;
-  background-color: var(--bg-dark);
-  color: var(--text-primary);
-  line-height: 1.6;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  padding: 20px;
-}
-
-.github-stats-container {
-  background-color: var(--card-dark);
-  border-radius: 12px;
-  padding: 30px;
-  width: 100%;
-  max-width: 800px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-}
-
-.profile-header {
-  display: flex;
-  align-items: center;
-  margin-bottom: 30px;
-}
-
-.profile-image {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  margin-right: 20px;
-  border: 3px solid var(--accent-color);
-}
-
-.username {
-  font-size: 2rem;
-  color: var(--accent-color);
-}
-
-.stats-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  margin-bottom: 30px;
-}
-
-.stat-card {
-  background-color: var(--bg-dark);
-  border-radius: 8px;
-  padding: 20px;
-  text-align: center;
-  border: 1px solid var(--accent-variant);
-}
-
-.stat-card h3 {
-  color: var(--accent-color);
-  margin-bottom: 10px;
-}
-
-.stat-value {
-  font-size: 2rem;
-  font-weight: bold;
-  color: var(--text-primary);
-}
-
-.language-stats {
-  background-color: var(--bg-dark);
-  border-radius: 8px;
-  padding: 20px;
-  border: 1px solid var(--accent-variant);
-}
-
-.language-stats h2 {
-  color: var(--accent-color);
-  margin-bottom: 15px;
-  text-align: center;
-}
-
-.language-bars {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.language-bar {
-  background-color: var(--card-dark);
-  border-radius: 5px;
-  overflow: hidden;
-  position: relative;
-  height: 30px;
-}
-
-.language-bar::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: var(--percent, 0%);
-  background-color: var(--color);
-  transition: width 1s ease-in-out;
-}
-
-.language-bar span {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 1;
-  color: white;
-  padding: 0 10px;
-}
-
-.lang-name {
-  left: 0;
-}
-
-.lang-percent {
-  right: 0;
-}
-
-@media (max-width: 600px) {
-  .stats-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
