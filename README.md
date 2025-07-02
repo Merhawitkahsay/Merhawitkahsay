@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Merhawit from Ethiopia<br><br>- 🔭 I’m a computer science student at University of the People!<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I SLEEP!!!</p>
+<p align="left">I'm Merhawit from Ethiopia.<br><br>- 🔭 I’m a computer science student at University of the People!<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I SLEEP!!!</p>
 
 ###
 
@@ -36,11 +36,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="70" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="70" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" height="40" alt="python logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" height="700" alt="python logo"  />
 </div>
 
 ###
