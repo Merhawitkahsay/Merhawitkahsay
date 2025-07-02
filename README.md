@@ -6,10 +6,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-   <img src="https://tse3.mm.bing.net/th/id/OIP.TwESrblIhpd2D8XG5VDz5QHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
- 
+ <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+ <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+ <img src="https://tse3.mm.bing.net/th/id/OIP.TwESrblIhpd2D8XG5VDz5QHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="25" width = "50" alt="whatsapp logo"  />
 </div>
 
 ###
