@@ -6,16 +6,15 @@
 
 
 <div align="center">
- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
- <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
- <img src= "https://tse4.mm.bing.net/th/id/OIP.J-b9RgAu3d1FpU6G9zjWhAHaEc?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="25" width = "90" alt="whatsapp logo"  />
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yourchannel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/merhawitkahsayy)
+
 </div>
 
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 
 
@@ -29,15 +28,20 @@
 <br> 
 
 <div align="left">
-  <img src= "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png" height="60" alt="HTML logo"  />
-  <img width="12" />
-  <img src="https://th.bing.com/th/id/R.8e95479da2c5e493b835c8533c2d5ba5?rik=FsLtwf5wKb0A1Q&riu=http%3a%2f%2fdevlup.com%2fwp-content%2fuploads%2f2013%2f07%2fcss-logo.jpg&ehk=Uo3AKi7cKWanVe2acMOfLUQizY9rREpU0%2boUjHzShMI%3d&risl=&pid=ImgRaw&r=0" height="60" alt="css logo"  />
-  <img width="12" />
-   <img src= "https://tse3.mm.bing.net/th/id/OIP.CmR_xQULrXJrBNo7Q4EUYgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="60" alt="php logo"  />
-  <img width="12" />
-   <img src= "https://tse1.mm.bing.net/th/id/OIP.udMXCQ1YIOPXBQJv5BvM_wHaEo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" height="60" alt="python logo"  />
+ <!-- Programming & Web Technologies -->
+
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<!-- Coding Platforms -->
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+
 </div>
 
 <br> <br>
