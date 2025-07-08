@@ -50,14 +50,16 @@
 
 
 
- <h3>📊 Stats & Languages </h3>
+<h3>📊 Stats & Languages</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=tokyonight&hide_border=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhawitkahsay&show_icons=true&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhawitkahsay&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
+
 <br>
+
 <h3>🌟 My GitHub Dashboard</h3>
 
 <br/>
