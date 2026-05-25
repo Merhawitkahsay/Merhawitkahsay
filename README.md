@@ -22,7 +22,7 @@
 
 <h3 align="left">👩‍💻 About Me  </h3>
 
-<p align="left">Hi there! I'm Merhawit, tuning in from Ethiopia 🇪🇹. <br><br><br>🎓 Currently studying Computer Science <br><br>🐍 Learning Python and building cool stuff along the way <br></p>
+<p align="left">Hi there! I'm Merhawit, Software Engineer.<br><br>🎓 Learning and building cool stuff along the way <br></p>
 <br>
 <h3 align="left">🛠 Language and tools</h3>
 <br> 
@@ -30,7 +30,7 @@
 <div align="left">
  <!-- Programming & Web Technologies -->
 
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -41,21 +41,12 @@
 <!-- Coding Platforms -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Merhawit_codes/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/merhawitkahsay99)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/merhawitkahsay99/)
+
 
 
 </div>
 
 <br> <br>
-
-
-
-<h3>📊 Stats & Languages</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=merhawitkahsay&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhawitkahsay&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
-</p>
 
 
 <br>
@@ -69,8 +60,4 @@
   <img src="https://streak-stats.demolab.com?user=merhawitkahsay&theme=tokyonight&hide_border=false" width="78%" />
 </p>
 <br><br> 
-<h3> 🏆 GitHub Trophies </h3>
-<br> 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=merhawitkahsay&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+
