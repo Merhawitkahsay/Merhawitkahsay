@@ -18,11 +18,12 @@
 
 
 
-<h1 align="center">Merhawit here👋</h1>
+<h1 align="center">Merhawit here 👩‍💻</h1>
 
-<h3 align="left">👩‍💻 About Me  </h3>
+<h3 align="left"> Hi there! 👋 </h3>
 
-<p align="left">Hi there! I'm Merhawit, Software Engineer.<br><br>🎓 Learning and building cool stuff along the way <br></p>
+<p align="left">Welcome to my profile. I'm: <br><br> CS Student | Building scalable and impactful software solutions<br><br>
+🎓 Continuously learning, building, and growing through real-world projects <br></p>
 <br>
 <h3 align="left">🛠 Language and tools</h3>
 <br> 
