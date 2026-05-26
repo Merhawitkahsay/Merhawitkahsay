@@ -49,16 +49,3 @@
 
 <br> <br>
 
-
-<br>
-
-<h3>🌟 My GitHub Dashboard</h3>
-
-<br/>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=merhawitkahsay&theme=tokyonight&hide_border=false" width="78%" />
-</p>
-<br><br> 
-
